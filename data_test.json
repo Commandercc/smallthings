@@ -1,9 +1,10 @@
-{[
-
+{
+  [
 { "id": "1", "username":"McLaughlin", "password": "aaaa" },
 
 { "id": "2", "username":"Hunter", "password": "bbbb"},
 
 { "id": "3", "username":"Harold", "password": "cccc" }
 
-]}
+]
+}
